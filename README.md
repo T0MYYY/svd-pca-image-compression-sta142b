@@ -7,6 +7,12 @@ Individual project implementing image compression via Singular Value Decompositi
 
 ---
 
+<p align="center">
+  <img src="images/yosemite.png" width="65%">
+</p>
+
+---
+
 ## Project Overview
 
 | Part | Topic |
