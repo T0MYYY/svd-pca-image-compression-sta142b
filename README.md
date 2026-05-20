@@ -1,5 +1,25 @@
 # Dimension Reduction Using SVD and PCA — UC Davis STA 142B Project 1
 
+<!-- BADGES_BEGIN -->
+<p align="center">
+  <img alt="Course" src="https://img.shields.io/badge/Course-STA%20142B-022851?style=flat-square&labelColor=2a323d">
+  <img alt="UC Davis" src="https://img.shields.io/badge/UC%20Davis-Statistical%20Learning-FFBF00?style=flat-square&labelColor=2a323d">
+  <img alt="Term" src="https://img.shields.io/badge/Term-Spring%202023-2a323d?style=flat-square&labelColor=2a323d">
+  <img alt="Author" src="https://img.shields.io/badge/Author-Solo-1f7a3d?style=flat-square&labelColor=2a323d">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Submitted-ec5800?style=flat-square&labelColor=2a323d">
+  <img alt="Report" src="https://img.shields.io/badge/Report-PDF-EC2025?style=flat-square&labelColor=2a323d">
+</p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3-3776AB?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-notebook-F37626?style=flat-square&labelColor=2a323d&logo=jupyter&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-1.x-013243?style=flat-square&labelColor=2a323d&logo=numpy&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-1.x-F7931E?style=flat-square&labelColor=2a323d&logo=scikitlearn&logoColor=white">
+  <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-3.x-11557C?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
+  <img alt="Linear Algebra" src="https://img.shields.io/badge/Linear%20Algebra-SVD%20·%20PCA-7B68EE?style=flat-square&labelColor=2a323d">
+</p>
+<!-- BADGES_END -->
+
 Individual project implementing image compression via Singular Value Decomposition (SVD) and dimensionality reduction via Principal Component Analysis (PCA).
 
 **Course:** STA 142B — Statistical Learning (Spring 2023, UC Davis)  
